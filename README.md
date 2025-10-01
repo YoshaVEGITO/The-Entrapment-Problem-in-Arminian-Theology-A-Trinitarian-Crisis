@@ -1,4 +1,4 @@
-# The Entrapment Problem in Arminian Theology
+# The Entrapment Problem in Arminian Theology; A Trinitarian Crisis
 **Keywords:** Arminianism, prevenient grace, monergism, synergism, effectual calling, divine sovereignty, Trinitarian theology, definite atonement, Romans 9, John 6, compatibilism, total depravity, regeneration, election, Reformed theology, systematic theology, biblical exegesis
 
 
