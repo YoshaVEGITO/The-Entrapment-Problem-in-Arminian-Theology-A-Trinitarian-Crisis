@@ -19,6 +19,7 @@ A forensic analysis of synergism and the doctrine of God
 - [Tetelestai: Accomplishment vs. Possibility](#tetelestai-accomplishment-vs-possibility---the-arminian-redefinition)
 - [Primary Potential Objections](#primary-potential-objections)
 - [Is It Another Gospel?](#is-it-another-gospel)
+- [Anticipating a Pivot to Provisionism](#Anticipating-a-Pivot-to-Provisionism)
 - [Proof Set](#proof-set)
 - [Verdict](#verdict)
 - [License](#license)
@@ -376,6 +377,786 @@ We can say, "Arminianism is another gospel" as a systematic judgment, while also
 
 ---
 
+## Anticipating a Pivot to Provisionism
+
+When confronted with the Entrapment Problem, the Trinitarian Crisis, and the logical incoherence of prevenient grace, some may retreat from classical Arminianism to **Provisionism** (also called "Traditionalism")—a position popularized by Leighton Flowers and represented by the "Soteriology 101" platform.
+
+### The Provisionist Claim
+
+Provisionism denies the need for prevenient grace altogether by rejecting the classical doctrine of total depravity. The argument runs as follows:
+
+> "The gospel is a sufficient work of supernatural grace to enable whosoever hears it to believe... Nothing in all of scripture clearly teaches that fallen humanity has lost the innate moral capacity to respond positively to God's own gracious appeals and provisions to be reconciled from that Fall."
+> 
+> — Leighton Flowers, *Soteriology 101*
+
+In this view:
+- Man retains **innate moral capacity** to respond to the gospel
+- No regeneration is needed **prior to** faith
+- Total depravity/inability is a "Calvinistic invention"
+- The gospel message itself is the only "supernatural grace" required
+- Resistance to God is a **free choice**, not a capacity problem
+
+### Why This Pivot Fails Even Harder
+
+This retreat doesn't solve the problems with classical Arminianism—it **multiplies** them by explicitly contradicting the clear teaching of Scripture. The Provisionist position requires denying or redefining multiple texts that use categorical language for spiritual inability.
+
+---
+
+### The Greek Texts Provisionism Must Deny
+
+Provisionism claims man has "innate moral capacity to respond positively to God." The following texts use standard Greek constructions for **categorical inability**, not mere unwillingness.
+
+#### Romans 8:7-8
+
+**Greek:**
+> διότι τὸ φρόνημα τῆς σαρκὸς ἔχθρα εἰς θεόν, τῷ γὰρ νόμῳ τοῦ θεοῦ **οὐχ ὑποτάσσεται, οὐδὲ γὰρ δύναται**· οἱ δὲ ἐν σαρκὶ ὄντες θεῷ ἀρέσαι **οὐ δύνανται**.
+
+**Translation:**
+> "For the mind of the flesh is hostile to God, for it does not submit to God's law, **nor indeed is it able**; and those who are in the flesh **are not able** to please God."
+
+**Grammatical Analysis:**
+- **οὐχ ὑποτάσσεται** (ouch hypotassetai) = "does not submit" (present indicative)
+- **οὐδὲ γὰρ δύναται** (oude gar dynatai) = "nor indeed **is it able**"
+- **οὐ δύνανται** (ou dynantai) = "**are not able**" (3rd plural present indicative of δύναμαι)
+
+**Lexical Force:**
+- **δύναμαι** = "to be able, to have power, to be capable" (BDAG, LSJ)
+- **οὐ** + **δύναμαι** = categorical negation of ability/capacity
+- **οὐδὲ γὰρ** = "nor indeed" (emphatic intensifier)—not only does it not submit, but **it cannot**
+
+**If Paul meant "unwilling," he had available:**
+- **οὐ θέλω** = "not willing"
+- **ἀρνέομαι** = "refuse, deny"
+- **ἀπειθέω** = "disobey, be unpersuaded"
+
+**Paul chose οὐ δύναμαι—the standard construction for expressing inability.**
+
+The text explicitly states those "in the flesh" (ἐν σαρκὶ ὄντες):
+1. Are **hostile** to God (ἔχθρα εἰς θεόν)
+2. Do **not** submit (οὐχ ὑποτάσσεται)
+3. **Cannot** submit (οὐδὲ γὰρ δύναται)
+4. **Cannot** please God (οὐ δύνανται θεῷ ἀρέσαι)
+
+**Provisionism requires arguing that οὐ δύναμαι doesn't mean "not able."** This is lexically and grammatically indefensible.
+
+---
+
+#### 1 Corinthians 2:14
+
+**Greek:**
+> ψυχικὸς δὲ ἄνθρωπος **οὐ δέχεται** τὰ τοῦ πνεύματος τοῦ θεοῦ, μωρία γὰρ αὐτῷ ἐστιν, καὶ **οὐ δύναται γνῶναι**, ὅτι πνευματικῶς ἀνακρίνεται.
+
+**Translation:**
+> "The natural person does not receive the things of the Spirit of God, for they are folly to him, and **he is not able to understand** them, because they are spiritually discerned."
+
+**Grammatical Analysis:**
+- **ψυχικὸς ἄνθρωπος** = "natural/unspiritual person" (from ψυχή = soul/natural life, contrasted with πνεῦμα = spirit)
+- **οὐ δέχεται** = "does not receive/accept" (present middle/passive indicative)
+- **οὐ δύναται γνῶναι** = "**is not able to know/understand**"
+  - **γνῶναι** = aorist infinitive of γινώσκω (to know, perceive, understand)
+  - **οὐ δύναται** = same inability construction as Romans 8:7-8
+
+**The Text Provides Two Barriers:**
+1. **Does not receive** (οὐ δέχεται) = categorical rejection
+2. **Cannot understand** (οὐ δύναται γνῶναι) = categorical inability
+
+**Reason Given:** ὅτι πνευματικῶς ἀνακρίνεται = "because they are spiritually discerned/examined"
+- Spiritual things require spiritual capacity
+- The natural person **lacks this capacity** (hence οὐ δύναται)
+
+**Provisionism must explain:** If man has "innate moral capacity to respond," why does Paul say the natural person **οὐ δύναται** (is not able) to understand spiritual things?
+
+---
+
+#### Ephesians 2:1, 5
+
+**Greek (v.1):**
+> καὶ ὑμᾶς **ὄντας νεκροὺς** τοῖς παραπτώμασιν καὶ ταῖς ἁμαρτίαις ὑμῶν
+
+**Greek (v.5):**
+> καὶ **ὄντας ἡμᾶς νεκροὺς** τοῖς παραπτώμασιν **συνεζωοποίησεν** τῷ Χριστῷ
+
+**Translation:**
+> "And you, **being dead** in your trespasses and sins... even when we **were dead** in our trespasses, **made us alive** together with Christ"
+
+**Grammatical Analysis:**
+- **νεκροὺς** (nekrous) = "dead" (accusative plural of νεκρός)
+  - Same word for physical death throughout NT (Matt 8:22, Luke 9:60, John 5:25, Rev 1:18)
+  - Not metaphorically sick, weak, or impaired—**dead**
+- **ὄντας** (ontas) = present participle of εἰμί = "**being/existing in a state of** deadness"
+  - Present tense = ongoing state, not temporary condition
+- **συνεζωοποίησεν** = aorist active indicative, "made alive together"
+  - **συν-** = together with (Christ)
+  - **ζωο-** = life (from ζωή)
+  - **-ποιέω** = to make/do
+  - **God is the active subject**—He makes alive
+
+**If Paul meant spiritually impaired but capable, he had available:**
+- **ἀσθενής** = "weak, sick"
+- **ἀδύνατος** = "powerless, unable"
+- **νοσέω** = "to be sick"
+
+**Paul chose νεκρός = dead (corpse).** Dead people don't cooperate in their resurrection—they're dead. The solution is divine action: **συνεζωοποίησεν** (God made alive).
+
+**Provisionism requires arguing that νεκρός doesn't mean dead, or that dead people can respond.** Both are absurd.
+
+---
+
+#### John 6:44, 65
+
+**Greek (v.44):**
+> **οὐδεὶς δύναται** ἐλθεῖν πρός με ἐὰν μὴ ὁ πατὴρ ὁ πέμψας με **ἑλκύσῃ** αὐτόν
+
+**Greek (v.65):**
+> καὶ ἔλεγεν, Διὰ τοῦτό εἴρηκα ὑμῖν ὅτι **οὐδεὶς δύναται** ἐλθεῖν πρός με ἐὰν μὴ **ᾖ δεδομένον** αὐτῷ ἐκ τοῦ πατρός
+
+**Translation (v.44):**
+> "**No one is able** to come to me unless the Father who sent me **draws** him."
+
+**Translation (v.65):**
+> "This is why I told you that **no one is able** to come to me unless **it has been given** to him by the Father."
+
+**Grammatical Analysis:**
+- **οὐδεὶς δύναται** = "**no one is able**"
+  - **οὐδεὶς** = not even one (absolute universal negative)
+  - **δύναται** = is able (same verb as Rom 8:7-8, 1 Cor 2:14)
+- **ἐλθεῖν** = aorist infinitive "to come"
+- **ἐὰν μὴ** = "unless" (strong exception clause setting absolute condition)
+- **ἑλκύσῃ** (v.44) = aorist active subjunctive of ἕλκω
+  - Lexical range: draw, drag, pull (BDAG: "to draw, drag, pull")
+  - John 21:6, 11 (dragging net of fish)
+  - Acts 16:19 (dragging Paul into marketplace)
+  - James 2:6 (rich dragging you into court)
+- **ᾖ δεδομένον** (v.65) = "it has been given"
+  - **ᾖ** = present subjunctive of εἰμί
+  - **δεδομένον** = perfect passive participle of δίδωμι (to give)
+  - Perfect tense = completed action with ongoing results
+  - Passive voice = **receiving** the gift, not generating it
+  - Agent: **ἐκ τοῦ πατρός** = from the Father
+
+**The Text States:**
+1. **Universal inability:** οὐδεὶς δύναται = **no one** is able
+2. **Absolute condition:** ἐὰν μὴ = unless (no coming apart from this condition)
+3. **Divine action required:** Father draws (ἑλκύσῃ) / Father gives (δεδομένον)
+4. **Human passivity:** Perfect passive participle = gift received, not initiated
+
+**Provisionism must explain:**
+1. Who is excluded from "**οὐδεὶς**" (no one)? The universal negative admits no exceptions.
+2. If man has innate capacity, why does Jesus say "**no one is able**" (οὐδεὶς δύναται)?
+3. Where is libertarian free choice in "**it has been given**" (perfect passive)?
+
+---
+
+### The Grammatical Checkmate
+
+The Greek uses **standard constructions for categorical inability:**
+
+| **Construction** | **Meaning** | **Texts** |
+|---|---|---|
+| **οὐ δύναμαι** + infinitive | "not able to [do X]" | Rom 8:7-8, 1 Cor 2:14, John 6:44, 65 |
+| **νεκρός** + participle ὄντας | "being dead" (ongoing state) | Eph 2:1, 5 |
+| **οὐδεὶς** + **δύναμαι** | "no one is able" (universal inability) | John 6:44, 65 |
+| Perfect passive participle | Completed divine action, passive reception | John 6:65 (δεδομένον) |
+
+**If the Holy Spirit wanted to express unwillingness or refusal, He had available:**
+- **οὐ θέλω** = "not willing"
+- **ἀρνέομαι** = "refuse, deny"
+- **ἀπειθέω** = "disobey, be unpersuaded"
+- **σκληρύνω** = "harden" (used when resistance is in view, e.g., Heb 3:15)
+
+**The Spirit chose δύναμαι constructions and νεκρός**—terms for **inability and death**, not unwillingness or hardness.
+
+**To deny total inability, one must:**
+1. Redefine **οὐ δύναμαι** to mean something other than "not able" (lexically indefensible)
+2. Redefine **νεκρός** to mean something other than "dead" (lexically indefensible)
+3. Redefine **οὐδεὶς** to mean "some people" instead of "no one" (grammatically absurd)
+4. Explain why Paul/John didn't use the available terms for unwillingness if that's what they meant
+
+**This is not exegesis. This is eisegesis to preserve a system.**
+
+---
+
+#### The Hebrew Text: Ezekiel 18 and 36
+
+Provisionism claims man retains "innate moral capacity to respond positively to God." The contrast between Ezekiel 18:31 and 36:26-27 systematically refutes this claim by demonstrating Scripture's pattern: **Law exposes inability; God alone provides the solution.**
+
+---
+
+##### Ezekiel 18: The Command That Exposes Inability
+
+**Context of Ezekiel 18:**
+
+The chapter addresses Israel's fatalistic proverb: "The fathers have eaten sour grapes, and the children's teeth are set on edge" (v.2). Israel was blaming generational sin for their judgment, denying individual responsibility. God's response is categorical: each person bears responsibility for his own sin (v.4, 20). The chapter establishes **individual accountability** while simultaneously exposing **universal inability**.
+
+**Ezekiel 18:31 (Hebrew):**
+> הַשְׁלִ֣יכוּ מֵעֲלֵיכֶ֗ם אֶת־כָּל־פִּשְׁעֵיכֶם֙ אֲשֶׁ֣ר פְּשַׁעְתֶּ֣ם בָּ֔ם וַעֲשׂ֥וּ לָכֶ֛ם **לֵ֥ב חָדָ֖שׁ וְר֣וּחַ חֲדָשָׁ֑ה** וְלָ֥מָּה תָמֻ֖תוּ בֵּ֥ית יִשְׂרָאֵֽל׃
+
+**Translation:**
+> "Cast away from you all the transgressions that you have committed, and **make yourselves a new heart and a new spirit!** Why will you die, O house of Israel?"
+
+**Grammatical Analysis:**
+
+- **הַשְׁלִיכוּ** (hashlikhu) = "cast away" (Hiphil imperative plural of שָׁלַךְ)
+  - Imperative mood = command
+  - Plural form = addressed to corporate Israel, but with individual application (per chapter context)
+  
+- **עֲשׂוּ** (asu) = "make/do" (Qal imperative plural of עָשָׂה)
+  - Imperative mood = command, not suggestion
+  - Qal stem = simple active—**you** do the making
+  
+- **לֵב חָדָשׁ** (lev chadash) = "new heart"
+  - **לֵב** = heart (seat of will, intellect, emotion in Hebrew anthropology)
+  - **חָדָשׁ** = new, fresh, unprecedented
+  
+- **רוּחַ חֲדָשָׁה** (ruach chadashah) = "new spirit"
+  - **רוּחַ** = spirit, breath, inner disposition
+  - **חֲדָשָׁה** = new (feminine form agreeing with רוּחַ)
+
+**The Force of the Command:**
+
+The imperative **עֲשׂוּ לָכֶם** ("make **for yourselves**") places the action squarely on Israel. The reflexive pronoun לָכֶם ("for yourselves") emphasizes that **they** are to be the agents of this self-transformation. This is **law**, not gospel—it reveals the standard and demands obedience.
+
+**The Problem:**
+
+Israel **could not** obey this command. The entire prophetic testimony of Ezekiel demonstrates this:
+- They had hearts of stone (11:19, 36:26)
+- They were in rebellion (2:3-7, 3:7, 12:2)
+- They defiled themselves with idols (20:7-8, 18, 30-31)
+- The command in 18:31 is followed by exile and judgment (chapters 20-24)
+
+**If Provisionism is correct** and man has "innate moral capacity," then:
+- Israel **should have been able** to obey Ezekiel 18:31
+- The command "make yourselves a new heart" would have been achievable
+- No further divine action would be necessary
+
+**But Israel could not do it.** This proves the command's purpose: **to expose inability, not to suggest ability.**
+
+---
+
+##### Ezekiel 36: The Divine Solution
+
+**Context of Ezekiel 36:**
+
+Chapters 33-37 form the "restoration oracle" section. After pronouncing judgment (chs. 1-32), Ezekiel now prophesies restoration—but not on the basis of Israel's ability or repentance. Restoration comes from **God's unilateral action** to preserve His holy name (36:22-23). The new covenant promise is entirely monergistic.
+
+**Ezekiel 36:26-27 (Hebrew):**
+> **וְנָתַתִּ֤י** לָכֶם֙ **לֵ֣ב חָדָ֔שׁ** **וְר֥וּחַ חֲדָשָׁ֖ה** **אֶתֵּ֣ן** בְּקִרְבְּכֶ֑ם וַהֲסִ֨רֹתִ֜י אֶת־לֵ֤ב הָאֶ֙בֶן֙ מִבְּשַׂרְכֶ֔ם **וְנָתַתִּ֥י** לָכֶ֖ם לֵ֥ב בָּשָֽׂר׃ וְאֶת־**רוּחִ֖י** **אֶתֵּ֣ן** בְּקִרְבְּכֶ֑ם **וְעָשִׂ֗יתִי** אֵת֙ אֲשֶׁ֤ר בְּחֻקַּי֙ תֵּלֵ֔כוּ וּמִשְׁפָּטַ֥י תִּשְׁמְר֖וּ וַעֲשִׂיתֶֽם׃
+
+**Translation:**
+> "**And I will give** you a **new heart**, and a **new spirit** **I will put** within you. And I will remove the heart of stone from your flesh **and give** you a heart of flesh. **And my Spirit I will put** within you, **and I will cause** you to walk in my statutes and be careful to obey my rules."
+
+**Grammatical Analysis:**
+
+**Verse 26:**
+- **וְנָתַתִּי** (venatatti) = "and I will give" (Qal perfect 1cs of נָתַן with waw consecutive)
+  - First person singular = **I** (God) will give
+  - Perfect with waw consecutive = future/volitional action
+  - The same gift Israel was commanded to make themselves in 18:31, **God now says He will provide**
+  
+- **לֵב חָדָשׁ** (lev chadash) = "new heart" (**identical phrase** to 18:31)
+  
+- **וְרוּחַ חֲדָשָׁה אֶתֵּן** (veruach chadashah eten) = "and a new spirit I will put"
+  - **אֶתֵּן** = Qal imperfect 1cs of נָתַן = "I will give/put"
+  - Again, first person—**God** is the giver
+  
+- **וַהֲסִרֹתִי** (vahasiroti) = "and I will remove" (Hiphil perfect 1cs of סוּר with waw consecutive)
+  - God actively **removes** the heart of stone
+  - Not "I will enable you to remove"—**I will remove**
+  
+- **לֵב הָאֶבֶן** (lev ha'even) = "heart of stone"
+  - Explains **why** Israel couldn't obey 18:31—they had stone hearts
+  - Stone = hard, unyielding, dead (cf. 11:19)
+  
+**Verse 27:**
+- **וְאֶת־רוּחִי אֶתֵּן בְּקִרְבְּכֶם** (ve'et-ruchi eten beqirbekem) = "and **my Spirit** I will put within you"
+  - **רוּחִי** = "my Spirit" (first person singular suffix)
+  - Not just a new human spirit, but **God's own Spirit** indwelling
+  - **אֶתֵּן** = first person singular—**I** will put
+  
+- **וְעָשִׂיתִי** (ve'asiti) = "and I will cause/make" (Qal perfect 1cs of עָשָׂה with waw consecutive)
+  - Same root (עָשָׂה) as the command in 18:31
+  - But different subject: In 18:31, **you** make (עֲשׂוּ). In 36:27, **I** will cause (וְעָשִׂיתִי)
+  - The verb governs the entire clause: God will **cause** them to walk in His statutes
+
+- **אֵת אֲשֶׁר בְּחֻקַּי תֵּלֵכוּ** (et asher bechuqai telechu) = "that you walk in my statutes"
+  - Not "I will enable you to walk if you choose"
+  - But "I will **cause** [you to walk]"—the causative force is carried by וְעָשִׂיתִי
+
+**The Pattern of Divine Monergism:**
+
+Every verb in Ezekiel 36:26-27 has **God as the subject** and uses **first person singular**:
+
+| **Verb** | **Form** | **Translation** | **Agent** |
+|---|---|---|---|
+| וְנָתַתִּי | Qal perfect 1cs | I will give | God |
+| אֶתֵּן | Qal imperfect 1cs | I will put | God |
+| וַהֲסִרֹתִי | Hiphil perfect 1cs | I will remove | God |
+| וְנָתַתִּי | Qal perfect 1cs | I will give | God |
+| אֶתֵּן | Qal imperfect 1cs | I will put | God |
+| וְעָשִׂיתִי | Qal perfect 1cs | I will cause/make | God |
+
+**Not a single verb** in this promise involves human cooperation or synergism. The verbs are:
+- **Unilateral** (God alone acts)
+- **Effectual** (God causes the result)
+- **Monergistic** (no human contribution)
+
+---
+
+##### The Contrast: Command vs. Promise
+
+| **Ezekiel 18:31** | **Ezekiel 36:26-27** |
+|---|---|
+| **Command** (imperative) | **Promise** (divine action) |
+| **עֲשׂוּ לָכֶם** = "you make for yourselves" | **וְנָתַתִּי לָכֶם** = "I will give to you" |
+| **Human agency required** | **Divine agency alone** |
+| Reveals the **standard** | Provides the **solution** |
+| Exposes **inability** | Accomplishes **transformation** |
+| **Law** | **Gospel** |
+
+**The theological logic:**
+
+1. **Ezekiel 18:31** sets the standard: "Make yourselves a new heart"
+2. **Israel cannot do it**—they have hearts of stone (36:26)
+3. **God Himself provides** what He commanded: "I will give you a new heart" (36:26)
+4. **God causes obedience**: "I will cause you to walk in my statutes" (36:27)
+
+**This is the biblical pattern of law and gospel:**
+- **Law** commands what we cannot do (exposes inability)
+- **Gospel** promises what God will do (divine provision)
+
+---
+
+##### Refuting Provisionism from Ezekiel 18 and 36
+
+**Provisionist Claim:**
+> "Man has innate moral capacity to respond positively to God."
+
+**The Ezekiel 18/36 Dilemma for Provisionism:**
+
+**Option 1: Man had the capacity to obey Ezekiel 18:31**
+
+If man has "innate moral capacity," then Israel should have been able to "make themselves a new heart" as commanded.
+
+**But they didn't.** The result was not repentance but:
+- Continued rebellion (Ezek 20:30-31)
+- Idolatry (ch. 22-23)
+- Exile and judgment (ch. 24)
+
+**Why didn't they obey?** Because they had **hearts of stone** (36:26). They **lacked the capacity**.
+
+**Option 2: Man lacked the capacity to obey Ezekiel 18:31**
+
+If Israel lacked capacity despite the command, then **Provisionism is false**—man does not have "innate moral capacity."
+
+**The only solution** is divine action: God removes the stone heart and gives a new heart (36:26-27).
+
+**Either way, Provisionism fails:**
+- If man had capacity, Israel would have obeyed 18:31 (they didn't)
+- If man lacked capacity, Provisionism's core claim is refuted (man doesn't have innate ability)
+
+---
+
+##### Why Ezekiel 36 Is Not "Enabling Grace"
+
+Provisionists might respond: "Ezekiel 36 describes God enabling people, which is consistent with our view."
+
+**This fails on three grounds:**
+
+**1. The Hebrew verbs are causative, not merely enabling**
+
+- **וְעָשִׂיתִי** (ve'asiti) = "I will cause/make"
+  - Not "I will enable you to walk" (which would require a different construction)
+  - But "I will **cause** you to walk"—God ensures the result
+
+- **וְנָתַתִּי** (venatatti) = "I will give"
+  - Not "I will offer for you to take if you choose"
+  - But "I will **give**"—the gift is effectually bestowed
+
+**2. God Himself performs the entire transformation**
+
+- Removes the stone heart (passive recipients)
+- Gives the new heart (passive recipients)
+- Puts His Spirit within (passive recipients)
+- Causes obedience (passive recipients)
+
+**At no point** does the text suggest human cooperation or synergism. The transformation is **entirely monergistic**.
+
+**3. If this were merely "enabling grace," Ezekiel 36 would be redundant**
+
+Provisionism claims man already has "innate capacity." If so, why does God need to:
+- Remove hearts of stone (implying they couldn't remove them)?
+- Give new hearts (implying they couldn't make them)?
+- Put His Spirit within (implying they lacked it)?
+- **Cause** obedience (implying they couldn't obey on their own)?
+
+**If man had innate capacity, Ezekiel 36 is unnecessary.** The very existence of this promise refutes Provisionism.
+
+---
+
+##### The Canonical Pattern: Isaiah's Parallel Testimony
+
+**Isaiah 64:6-7:**
+> "We have all become like one who is unclean, and all our righteous deeds are like a polluted garment... **There is no one who calls upon your name, who rouses himself to take hold of you**."
+
+**Hebrew:**
+> **וְאֵין־קוֹרֵא בְשִׁמְךָ מִתְעוֹרֵר לְהַחֲזִיק בָּךְ**
+
+- **אֵין** = there is none/no one (absolute negative)
+- **קוֹרֵא** = calling (Qal participle of קָרָא)
+- **מִתְעוֹרֵר** = rousing/stirring oneself (Hithpolel participle of עוּר—reflexive, intensive)
+- **לְהַחֲזִיק** = to take hold/grasp (Hiphil infinitive of חָזַק)
+
+**The text explicitly states:**
+1. **No one** calls on God's name (universal negative)
+2. **No one** rouses himself (reflexive action—they don't/can't initiate)
+3. **No one** takes hold of God (the action required isn't happening)
+
+**This parallels Ezekiel 18:31.** The command to "make yourselves a new heart" meets the reality: **no one does it**.
+
+**The Solution (Isaiah 64:8):**
+> "But now, O LORD, you are our Father; we are the clay, and **you are our potter**; we are all the work of your hand."
+
+**Hebrew:**
+> **וְאַתָּה֙ יֹצְרֵ֔נוּ**
+
+- **וְאַתָּה** = and **you** (emphatic subject)
+- **יֹצְרֵנוּ** = our potter/former (Qal participle of יָצַר with suffix)
+
+**God is the potter. We are the clay.** The potter forms the clay; the clay does not form itself.
+
+**Same pattern as Ezekiel:**
+- Command reveals inability (Ezek 18:31, Isa 64:6-7)
+- God alone provides solution (Ezek 36:26-27, Isa 64:8)
+
+---
+
+##### Summary: The Hebrew Text Refutes Provisionism
+
+**From Ezekiel 18 and 36, the Hebrew demonstrates:**
+
+1. **The command in 18:31** uses imperative forms (עֲשׂוּ, הַשְׁלִיכוּ) demanding human action—but Israel could not obey
+2. **The diagnosis in 36:26** identifies the problem: **hearts of stone** (לֵב הָאֶבֶן)
+3. **The solution in 36:26-27** is entirely monergistic: six first-person singular verbs with God as subject
+4. **The causative force** of וְעָשִׂיתִי shows God doesn't merely enable—He **causes** obedience
+5. **The passive role of humanity**: recipients of the new heart, recipients of the Spirit, recipients of caused obedience
+
+**Provisionism's claim** that man has "innate moral capacity to respond positively to God" is directly contradicted by:
+- Israel's **inability** to obey 18:31 despite the command
+- The **diagnosis** of stone hearts requiring divine removal
+- The **monergistic solution** where God alone acts
+- The **canonical pattern** where law exposes inability and God provides the solution
+
+**The Hebrew is unambiguous:** Man does not have the capacity to give himself a new heart. God must do it. And when God does it, He doesn't merely offer—He **accomplishes** it.
+
+**Salvation belongs to the LORD** (Jonah 2:9 / יְשׁוּעָ֥תָה לַיהוָֽה).
+
+---
+
+### Provisionism Doesn't Solve the Four Prongs
+
+Even granting the Provisionist denial of total depravity (which the Greek refutes), the four fatal problems remain:
+
+#### 1. Tetelestai Still Emptied
+
+If Christ died for all individuals without exception, and many go to hell, either:
+- The payment wasn't actually made (contradicts penal substitution)
+- The payment was made but God collects twice (injustice)
+- The payment was made but doesn't cover anyone in particular (incoherent)
+
+Denying total depravity doesn't solve the atonement problem.
+
+#### 2. Divine Culpability Remains
+
+If God:
+- **Knows** who will freely reject the gospel
+- **Could** provide additional persuasive revelation (as He does for some)
+- **Withholds** that revelation
+- Then **punishes** for rejection
+
+God is still the architect of the system that produces failure. Calling the rejection "free" doesn't absolve God of culpability if He foreknew and could have prevented it but didn't.
+
+The Arminian Entrapment Problem (inadequate prevenient grace) becomes the Provisionist Entrapment Problem (inadequate revelation). Same structure, one layer removed.
+
+#### 3. Trinitarian Incoherence Persists
+
+If salvation depends on libertarian free choice, then:
+- The **Father's will** to save all is thwarted by creatures
+- The **Son's work** secures only possibility, not people
+- The **Spirit's drawing** (John 6:44) is resistible and often fails
+
+Opera Trinitatis ad extra indivisa sunt is still violated. The three persons still have different power levels: The Father wills but cannot secure, the Son offers but cannot guarantee, the Spirit woos but can be defeated. This remains functional tritheism.
+
+#### 4. Scripture's Pattern: Law Then Gospel
+
+Ezekiel 18:31 commands: "**Make yourselves a new heart**"  
+Ezekiel 36:26-27 promises: "**I will give you a new heart... I will put my Spirit within you and cause you to walk in my statutes**"
+
+Provisionism claims man can obey Ezekiel 18:31 with innate capacity. But:
+- Israel **couldn't** do it (hence the judgment and exile)
+- God **Himself** provides the solution in Ezekiel 36 ("**I will give**," not "I will enable you to give yourself")
+
+If man had innate capacity, Ezekiel 36 is superfluous. Why promise to do what man can already do?
+
+Isaiah 43:11: "**I, I am the LORD, and besides me there is no savior.**"  
+Isaiah 42:8: "**My glory I will not give to another.**"
+
+If salvation depends on libertarian free choice, then:
+- Man shares the work (makes the decisive choice)
+- Man shares the glory (he's the difference-maker between saved/lost)
+
+This violates God's explicit refusal to share salvific glory.
+
+---
+
+### Provisionism: A Retreat Further From Scripture
+
+Classical Arminianism at least:
+- Affirms total depravity (aligning with Rom 8:7-8, 1 Cor 2:14, Eph 2:1, John 6:44, 65)
+- Recognizes the need for grace beyond the gospel message
+- Attempts to preserve sola gratia (even if unsuccessfully via prevenient grace)
+
+Provisionism:
+- **Denies** total depravity (contradicting explicit Greek texts)
+- Claims natural capacity suffices (making grace less necessary)
+- Makes salvation ultimately dependent on human choice (functional synergism)
+
+**This is not a move toward biblical fidelity—it's a move toward semi-Pelagianism.** The retreat from classical Arminianism to Provisionism doesn't solve the contradictions; it multiplies them by explicitly denying what the text says.
+
+---
+
+### Conclusion: All Roads Lead to Monergism
+
+When confronted with the Entrapment Problem, the Trinitarian Crisis, and the logical incoherence of Arminian theology, there are only two options:
+
+**Option 1: Retreat to Provisionism**
+- Denies total depravity
+- Contradicts οὐ δύναμαι texts (Rom 8:7-8, 1 Cor 2:14, John 6:44, 65)
+- Contradicts νεκρός (Eph 2:1, 5)
+- Still doesn't solve Tetelestai, divine culpability, or Trinitarian problems
+- Moves further from Scripture, not closer
+
+**Option 2: Embrace Monergism**
+- Affirms what the Greek actually says (οὐ δύναμαι = not able, νεκρός = dead)
+- Resolves Entrapment Problem (effectual grace overcomes inability)
+- Resolves Trinitarian Crisis (all three persons equally sovereign)
+- Resolves Tetelestai (Christ's work accomplishes what it intends)
+- Aligns with Scripture's pattern: Law exposes inability, God alone provides solution
+
+The pivot to Provisionism is predictable but futile. It trades one set of contradictions for another while explicitly denying the plain teaching of multiple texts. The only coherent position that honors the Greek text, resolves the logical contradictions, and preserves the Trinitarian unity is **monergistic, effectual grace**—salvation accomplished by God alone, from first to last.
+
+**Salvation belongs to the LORD** (Jonah 2:9).
+
+---
+
+### A Direct Challenge
+
+Leighton, a personal challenge to you: Before you cite a proof text in defense of Provisionism, verify that your use aligns with the **pericope context**, the **chapter argument**, the **book's theology**, and the **canonical pattern**. Apply the same grammatical-historical rigor you would demand from those who cite financial data in an audit.
+
+Check whether:
+- The Greek construction actually supports your claim
+- The immediate context qualifies or contradicts your reading
+- The author's broader argument in the book sustains your interpretation
+- The canonical testimony reinforces or refutes your position
+
+**You'd be surprised what you'd find.**
+
+The issue isn't whether you can quote a verse. The issue is whether the verse, in its context, teaches what you claim it teaches. That's the standard of evidence required for any position claiming biblical warrant.
+
+---
+
+##### A Direct Challenge: The Testimony of Israel's History
+
+**To Leighton Flowers and all Provisionists:**
+
+You claim man retains "innate moral capacity to respond positively to God's gracious appeals." If this is true, explain Israel's history.
+
+God gave Israel **maximum advantage**:
+- **His presence** dwelling among them (the Tabernacle, the Temple, the Shekinah glory)
+- **His Law** written on stone, delivered by His own hand (Exodus 20)
+- **His prophets** sent continuously to call them back (Jer 7:25, 25:4)
+- **His miraculous provision** (manna, water from rock, parting seas)
+- **His direct intervention** in judgment and deliverance
+- **His covenant promises** establishing relationship
+
+**Yet the testimony of Scripture is uniform and devastating:**
+
+**Exodus 32:** While Moses was on the mountain receiving the Law from God, Israel made the golden calf. God's presence was **on the mountain** in visible fire and cloud. They had just been delivered from Egypt by miraculous plagues. **They still rebelled.**
+
+**Numbers 14:** After seeing God's glory, the pillar of cloud by day and fire by night, the manna from heaven, water from rock—they refused to enter the Promised Land. God was **dwelling among them visibly**. **They still rebelled.**
+
+**Judges:** The cycle repeats for centuries:
+- God delivers → Israel serves → Israel rebels → God judges → Israel cries out → God delivers → Israel rebels again
+- **Judges 2:19:** "But whenever the judge died, they turned back and were more corrupt than their fathers."
+
+**1 Samuel 8:** Israel rejects God as King, demanding a human monarch "**like all the nations**" (v.5). Samuel warns them of the consequences. God Himself says, "**They have rejected me from being king over them**" (v.7). **They still rebelled.**
+
+**1 Kings - 2 Kings:** Despite the Temple, the priesthood, the prophets (Elijah, Elisha, Isaiah, Jeremiah, Ezekiel), the signs and wonders—the northern kingdom fell into idolatry immediately after Solomon. The southern kingdom followed. **Continuous rebellion** despite God's dwelling presence.
+
+**Isaiah 1:2-4:**
+> "Hear, O heavens, and give ear, O earth; for the LORD has spoken: 'Children have I reared and brought up, **but they have rebelled against me**. The ox knows its owner, and the donkey its master's crib, **but Israel does not know, my people do not understand**.' Ah, sinful nation, a people laden with iniquity, offspring of evildoers, children who deal corruptly! **They have forsaken the LORD**."
+
+**Jeremiah 2:13:**
+> "For my people have committed two evils: **they have forsaken me, the fountain of living waters**, and hewed out cisterns for themselves, broken cisterns that can hold no water."
+
+**Jeremiah 7:25-26:**
+> "From the day that your fathers came out of the land of Egypt to this day, **I have persistently sent all my servants the prophets to them, day after day. Yet they did not listen to me or incline their ear, but stiffened their neck**. They did worse than their fathers."
+
+**Ezekiel 20:8:**
+> "But they rebelled against me and were not willing to listen to me. None of them cast away the detestable things their eyes feasted on, nor did they forsake the idols of Egypt."
+
+---
+
+**The Question for Provisionism:**
+
+If man has "**innate moral capacity to respond positively to God's gracious appeals**," then Israel—who had:
+- God's **visible presence** (cloud, fire, Shekinah glory)
+- God's **audible voice** (Sinai, prophets)
+- God's **written Law** (Torah delivered by God Himself)
+- God's **miraculous provision** (daily manna for 40 years)
+- God's **covenant promises** (Abraham, Moses, David)
+- God's **prophetic warnings** sent "day after day" (Jer 7:25)
+
+...should have been the **most responsive people in history**.
+
+**Instead, the biblical record shows continuous, persistent, corporate rebellion spanning 1,500+ years.**
+
+**Why?**
+
+**Three possible answers:**
+
+**1. God's appeals were insufficient**
+- But God dwelled among them, spoke audibly, worked miracles, sent prophets continuously
+- This makes God's "gracious appeals" inadequate despite maximum effort
+- This implicates God as the problem
+
+**2. Israel's rebellion was a unique historical anomaly**
+- But Romans 3:9-18 applies Israel's pattern to "**both Jews and Greeks... all**"
+- But the Gentile nations weren't better (Rom 1:18-32)
+- But the New Testament shows the same pattern (John 1:11, Acts 7:51-53)
+- This isolates Israel unfairly and ignores the canonical testimony
+
+**3. Man lacks innate capacity to respond positively**
+- This is what the text says: hearts of stone (Ezek 36:26)
+- This is what the pattern proves: continuous rebellion despite maximum advantage
+- This is what Romans 3:10-18 teaches: "**None is righteous, no one seeks for God**"
+- **This is total depravity**
+
+---
+
+**The New Testament Confirms the Pattern**
+
+**John 1:11:**
+> "He came to his own, and **his own people did not receive him**."
+
+Jesus Himself—God incarnate—came to Israel. They had:
+- His physical presence (not just Shekinah, but **God in flesh**)
+- His teaching (the Sermon on the Mount, parables, direct instruction)
+- His miracles (healing blind, lame, deaf, raising the dead, feeding thousands)
+- His fulfillment of prophecy (Messiah credentials visible)
+
+**Result:** "**Crucify him!**" (Mark 15:13-14)
+
+**Acts 7:51-53 (Stephen's testimony):**
+> "You stiff-necked people, uncircumcised in heart and ears, **you always resist the Holy Spirit. As your fathers did, so do you**. Which of the prophets did your fathers not persecute? And they killed those who announced beforehand the coming of the Righteous One, **whom you have now betrayed and murdered**."
+
+**The pattern is identical:**
+- Old Testament: rejected the prophets
+- New Testament: rejected the Prophet (Jesus)
+- **Continuous resistance** despite God's presence, appeals, and provision
+
+---
+
+**Romans 3:10-18 Universalizes the Pattern**
+
+Paul doesn't say "Israel was uniquely depraved." He says **all humanity** shares this condition:
+
+> "None is righteous, no, not one; **no one understands; no one seeks for God**. All have turned aside; together they have become worthless; **no one does good, not even one**."
+
+**The testimony Paul cites** (from Psalms and Isaiah) describes the same pattern:
+- Universal corruption
+- Universal rejection of God
+- Universal lack of seeking
+
+**If Israel—with God dwelling among them—still rebelled continuously, what hope does fallen humanity have without divine intervention?**
+
+---
+
+**The Entire Biblical Narrative is Testimony to Total Depravity**
+
+**The Old Testament pattern:**
+1. God initiates (covenant, law, presence, provision)
+2. Man rebels (golden calf, idolatry, rejecting God as King)
+3. God judges (exile, defeat, consequences)
+4. God promises restoration **by His own action** (Ezek 36:26-27, Jer 31:31-34, Ezek 11:19-20)
+
+**The New Testament fulfillment:**
+1. God sends His Son (ultimate gracious appeal—**God in flesh**)
+2. Man crucifies Him (ultimate rebellion—**"Away with him!"** John 19:15)
+3. God raises Him (vindication and judgment)
+4. God sends the Spirit to **regenerate** the elect (John 3:5-8, Acts 16:14, Titus 3:5)
+
+**The pattern is monergistic from beginning to end:**
+- **Not:** God offers, man chooses, God responds
+- **But:** God acts, man rebels, God acts again sovereignly to save a remnant
+
+---
+
+**The Direct Challenge**
+
+Leighton, you claim "**nothing in all of scripture clearly teaches that fallen humanity has lost the innate moral capacity to respond positively to God's own gracious appeals**."
+
+**The entire Old Testament is 39 books of testimony against that claim.**
+
+Israel had:
+- **More gracious appeals** than any people in history (God's visible presence, audible voice, miraculous provision, written Law, continuous prophets)
+- **More divine revelation** than any nation (Torah, Prophets, Temple, covenant promises)
+- **More reasons to respond positively** (deliverance from Egypt, entry into Promised Land, Davidic kingdom, prophetic hope)
+
+**The result:** Continuous, persistent, corporate rebellion for 1,500+ years, culminating in the crucifixion of their own Messiah.
+
+**If that isn't testimony to total depravity—man's inability to respond positively despite maximum gracious appeal—what possibly could be?**
+
+**The text answers:**
+- **Ezekiel 36:26** – They had hearts of **stone** (dead, unyielding, unable)
+- **Romans 8:7-8** – The mind of flesh **cannot** submit, **cannot** please God
+- **1 Corinthians 2:14** – The natural person **cannot** understand spiritual things
+- **John 6:44, 65** – **No one can** come unless the Father draws/grants
+
+**Your position requires denying:**
+1. The lexical force of οὐ δύναμαι (not able) and לֵב הָאֶבֶן (heart of stone)
+2. The grammatical structure of monergistic verbs in Ezekiel 36:26-27
+3. The historical pattern of Israel's continuous rebellion despite God's presence
+4. The universal scope of Romans 3:10-18 ("no one seeks God")
+5. The testimony of Jesus Himself (John 6:44, 65: "no one **can** come")
+
+**At what point does the weight of evidence become undeniable?**
+
+---
+
+**Conclusion: The Entire Canon Testifies**
+
+The Bible is not a story of man's capacity to respond positively to God's appeals.
+
+**It is a story of:**
+- Man's utter inability and rebellion (Genesis 3 → Malachi 4)
+- God's sovereign, unilateral, monergistic intervention to save a people for Himself (Ezek 36, Jer 31, John 6, Eph 2, Rom 8-9)
+- Salvation accomplished not by human will or exertion, but by God who has mercy (Rom 9:16)
+
+**From the Garden (Genesis 3) to the New Jerusalem (Revelation 21-22), the testimony is uniform:**
+
+> **"Salvation belongs to the LORD"** (Jonah 2:9)  
+> **יְשׁוּעָתָה לַיהוָה**
+
+Not "Salvation is made possible by the LORD and actualized by man."  
+Not "Salvation depends on man's innate capacity activated by divine appeal."  
+But **"Salvation belongs to the LORD"**—from first to last, beginning to end, initiation to consummation.
+
+**The entire biblical narrative—Old and New Testaments together—stands as irrefutable testimony to total depravity and sovereign grace.**
+
+Your move, Leighton.
+
+---
+
 ## Proof Set
 
 Let it be stated clearly: this analysis does not rest on a few select passages, such as Romans 9, John 6, or Ephesians 1, as is often caricatured. Instead, it is built upon the coherent and cumulative witness of the entire canon. The extensive proof set that follows demonstrates that the grammar of salvation—divine initiative, effectual calling, and sovereign regeneration—is a consistent theme from the Law and Prophets to the Gospels and Epistles. The central argument is that the Bible, taken as a whole, uniformly teaches that God's life-giving act must precede the sinner's faith. Opposing views are forced not merely to reinterpret a few verses, but to systematically flatten or reverse this pervasive biblical pattern.
@@ -527,4 +1308,4 @@ Under the following terms:
 
 ---
 
-© 2025 | Licensed under CC BY 4.0
+© 2025 VeritasVox | Licensed under CC BY 4.0
