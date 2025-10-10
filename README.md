@@ -13,10 +13,11 @@ A forensic analysis of synergism and the doctrine of God
 - [Clarity of Intent](#clarity-of-intent)
 - [Executive Summary](#executive-summary)
 - [Core Contradiction](#core-contradiction)
+- [Divine Entrapment: The Inescapable Trilemma](#divine-entrapment-the-inescapable-trilemma)
 - [Philosophical Reinforcement](#philosophical-reinforcement)
 - [Meticulous Sovereignty and Compatibilist Freedom](#meticulous-sovereignty-and-compatibilist-freedom)
 - [Against the Corporate Reinterpretation of "All"](#against-the-corporate-reinterpretation-of-all)
-- [Tetelestai: Accomplishment vs. Possibility](#tetelestai-accomplishment-vs-possibility---the-arminian-redefinition)
+- [Tetelestai: Accomplishment vs. Possibility](#tetelestai-accomplishment-vs-possibility)
 - [The Five-Point Incoherence: Systematic Collapse](#the-five-point-incoherence-systematic-collapse)
   - [A. Prevenient Grace: The Invented Middle Ground](#a-prevenient-grace-the-invented-middle-ground)
   - [B. Conditional Election: God the Nervous Bird-Watcher](#b-conditional-election-god-the-nervous-bird-watcher)
@@ -24,15 +25,16 @@ A forensic analysis of synergism and the doctrine of God
   - [D. Resistible Grace: Jesus the Unsuccessful Suitor](#d-resistible-grace-jesus-the-unsuccessful-suitor)
   - [E. Conditional Security: The Breakable Seal](#e-conditional-security-the-breakable-seal)
   - [F. The Systematic Verdict: Every Pillar Fails](#f-the-systematic-verdict-every-pillar-fails)
-- [Is It Another Gospel?](#is-it-another-gospel)
 - [The Prayer Test: The System Self-Refutes](#the-prayer-test-the-system-self-refutes)
   - [A. The Arminian Dilemma: What Can You Actually Pray For?](#a-the-arminian-dilemma-what-can-you-actually-pray-for)
   - [B. The Practice Betrays the Theology](#b-the-practice-betrays-the-theology)
   - [C. Biblical Prayer Assumes Divine Sovereignty Over Salvation](#c-biblical-prayer-assumes-divine-sovereignty-over-salvation)
   - [D. The Incoherence Exposed](#d-the-incoherence-exposed)
   - [E. Why This Matters for the "Another Gospel" Verdict](#e-why-this-matters-for-the-another-gospel-verdict)
+- [Glory Theft: The Decisive Factor Problem](#glory-theft-the-decisive-factor-problem)
+- [Is It Another Gospel?](#is-it-another-gospel)
+- [Anticipating a Pivot to Provisionism](#anticipating-a-pivot-to-provisionism)
 - [Primary Potential Objections](#primary-potential-objections)
-- [Anticipating a Pivot to Provisionism](#Anticipating-a-Pivot-to-Provisionism)
 - [Proof Set](#proof-set)
 - [Verdict](#verdict)
 - [License](#license)
@@ -81,11 +83,21 @@ This polemic therefore is directed specifically at those who systematically teac
 
 ## Executive Summary
 
-This brief exposes a **logical and moral collapse** within classical Arminian theology. Specifically, it addresses the **Entrapment Problem**: the idea that God dispenses universal, non-efficacious "grace", fully foreknowing its ineffectiveness, and then eternally punishes those who fail to respond to it. By 'prevenient grace' I mean universal, non-regenerating, resistible enabling.
+This forensic analysis exposes not merely a flawed soteriology but a **false vision of the Trinity** at the heart of classical Arminian theology. The Entrapment Problem reveals that Arminianism forces a choice between three heresies:
 
-This analysis rests not on importing a Reformed grid, but on examining Arminian commitments under Scripture's light. If the result feels like Calvinism, it is only because Calvinism faithfully reflects what Scripture says when Arminian categories collapse. It is a **forensic analysis of Arminianism's own internal commitments**, and how they fail to cohere. See John 6:37, 44; Eph. 2:1-5, cf. Acts 16:14.
+**The Inescapable Trilemma:**
+- **If God didn't foreknow who would reject grace:** Denies omniscience (heresy)
+- **If God couldn't make grace effectual:** Denies omnipotence (heresy)  
+- **If God foreknew rejection and could have prevented it but chose not to:** Denies divine goodness—giving grace He knows is insufficient, then punishing for the failure He foreknew and could have prevented (heresy)
 
-The result is not merely a flawed soteriology, but a false vision of the Trinity. The Father becomes a passive responder to foreseen human decisions. The Son becomes a hypothetical savior offering possibilities, not securing redemption. The Spirit becomes a frustrated persuader who tries to regenerate hearts but often fails. Such a system may still use biblical words, but it proclaims another god—one whose grace is weak, whose purposes are uncertain, and whose sovereignty is subservient to creaturely will.
+**Arminianism forces you to deny either God's omniscience, omnipotence, or goodness. Pick your heresy.**
+
+But the collapse extends deeper than logical incoherence. Each pillar of Arminian theology doesn't merely misinterpret Scripture—it **reconstructs a Person of the Trinity**:
+- The **Father** becomes a reactive observer whose will is contingent on creaturely choice
+- The **Son** becomes a hypothetical savior whose work is potential rather than actual  
+- The **Spirit** becomes a frustrated persuader whose power is regularly defeated
+
+This is not the God of Scripture. And when theology presents another God, it presents another gospel.
 
 At its core, the Entrapment Problem is not just a gospel error. It is a Trinitarian distortion. And that moves this debate from the category of "in-house disagreement" to gospel-level crisis. Scripture does not present a God who tries—it reveals a God who accomplishes. The gospel is not about potentialities. It is about power—the power of the triune God to save whom He wills.
 
@@ -100,7 +112,83 @@ Arminianism affirms all four of the following:
 3. **Resistible Grace** — Grace can be rejected.
 4. **Eternal Punishment for Unbelief** — Hell is just for those who don't believe.
 
-The logical contradiction outlined in the Core Contradiction is the same moral absurdity unmasked by the principle *ought → can*. Only effectual grace resolves this tension; all other formulations devolve into entrapment.
+**These four premises, when held together, produce moral entrapment:**
+
+God gives grace to every person (premise 1), knowing beforehand which individuals will reject it (premise 2). This grace can be successfully resisted (premise 3), and yet God eternally punishes those who resist it (premise 4).
+
+**The entrapment emerges here:**
+
+If God foreknows person X will reject the grace He gives, and God has the power to give grace that would overcome that resistance (He is omnipotent), but God chooses to give only resistible grace instead—then God is deliberately giving grace He knows is insufficient for person X, and then punishing person X for failing to respond to what God knew he couldn't respond to with the grace given.
+
+**This is not a peripheral problem. This creates an inescapable moral dilemma that strikes at the very nature of God Himself.**
+
+The Arminian cannot escape by appealing to:
+- **"Ought implies can"** — Because the grace given is insufficient, there is no "can"
+- **"Libertarian freedom requires resistibility"** — This makes human autonomy more ultimate than divine justice
+- **"God desires all to be saved"** — Then why deliberately give insufficient grace while foreknowing failure?
+
+**The question is unavoidable:** If God foreknows the grace He gives will fail, and He could give grace that wouldn't fail, but He chooses not to—then punishes for the foreknown failure—what does this make God?
+
+The answer forces a choice between three heresies. There is no fourth option.
+
+---
+
+## Divine Entrapment: The Inescapable Trilemma
+
+The core Arminian position on prevenient grace creates an inescapable moral problem. God gives prevenient grace as a partial regenerating gift, enabling humans to respond to the gospel. However:
+
+- **God foreknows the outcome** – He knows before giving prevenient grace who will accept and who will reject it
+- **God could make it effectual** – If God is omnipotent, He could give grace that guarantees salvation rather than merely enabling response
+- **God gives insufficient grace anyway** – Despite foreknowing rejection and having power to prevent it, God gives prevenient grace He knows will be rejected by specific individuals
+- **God punishes the foreknown failure** – After giving grace He knew would be insufficient, God punishes those individuals for failing to accept what He foreknew they wouldn't accept
+
+**This makes God morally culpable** because He had foreknowledge of the failure, power to prevent the failure, chose to allow the failure, then punishes the failure He foreknew and could have prevented. God becomes the cosmic entrapper who sets people up for failure.
+
+### The Inescapable Trilemma
+
+Arminians must choose which divine attribute to deny:
+
+**Option 1: Deny Omniscience**
+- Claim: "God doesn't foreknow who will reject the grace"
+- Problem: Contradicts divine omniscience
+- Texts violated: Psalm 139:1-6, Isaiah 46:10, Acts 15:18, Romans 8:29
+- **Verdict: Heresy** (denies essential attribute of God)
+
+**Option 2: Deny Omnipotence**  
+- Claim: "God cannot make grace effectual without violating free will"
+- Problem: Makes libertarian free will more ultimate than God's power; God is constrained by creaturely autonomy
+- Texts violated: Ephesians 1:19-20, Philippians 2:13, Job 42:2, Daniel 4:35
+- **Verdict: Heresy** (limits God's power, making human will supreme)
+
+**Option 3: Accept Divine Cruelty**
+- Claim: "God foreknows the rejection, could prevent it, but chooses not to—then punishes for the failure He foreknew and could have prevented"
+- Problem: Makes God cruel—intentionally giving insufficient grace while foreknowing failure, then punishing for that foreknown failure
+- This is entrapment: setting someone up to fail, knowing they will fail, having power to prevent the failure, choosing not to prevent it, then punishing them for failing
+- Texts violated: James 1:13 (God doesn't tempt/entrap), 1 John 4:8 (God is love), Ezekiel 18:23 (takes no pleasure in death of wicked)
+- **Verdict: Heresy** (denies divine goodness)
+
+### Why All Three Options Are Heretical
+
+**If you deny omniscience:** God is not all-knowing, contradicting His self-revelation as the God who "declares the end from the beginning" (Isaiah 46:10). This is open theism, condemned as heresy.
+
+**If you deny omnipotence:** God's power is subordinate to human will. The creature's libertarian freedom becomes more ultimate than the Creator's sovereignty. God is not "working all things according to the counsel of his will" (Ephesians 1:11)—He's reacting to libertarian outcomes He cannot control. This subordinates God to creation.
+
+**If you accept both omniscience and omnipotence:** Then God deliberately gives grace He knows is insufficient, foreknows the rejection, has power to prevent it, chooses not to, then punishes for the foreknown failure. This makes God unjust—punishing people for what He did not enable them to do while having full power and knowledge to enable them.
+
+### The Only Escape: Effectual Grace
+
+The only way to preserve divine omniscience, omnipotence, and goodness simultaneously is **effectual grace**:
+
+- God foreknows who will be saved (omniscience maintained)
+- God gives grace that actually accomplishes salvation for the elect (omnipotence maintained)
+- God is not entrapping anyone—those who perish do so justly for their own sin; those who are saved are saved by grace alone (goodness maintained)
+- **No one is punished for failing to respond to grace they couldn't respond to**—the reprobate are punished for their sin, not for failing to activate grace
+
+**Romans 9:16:** "So then it depends not on human will or exertion, but on God who has mercy."
+
+Arminianism makes salvation depend on human will (synergism). Scripture says it depends on God's mercy alone (monergism). Only monergism avoids the trilemma. Only effectual grace preserves the biblical God.
+
+**Arminianism forces you to deny either God's omniscience, omnipotence, or goodness. Pick your heresy.**
 
 ---
 
@@ -192,21 +280,39 @@ This transforms the cross from a victorious altar where sin was decisively cance
 
 The Entrapment Problem is not an isolated flaw in an otherwise sound system. It is the inevitable result of five mutually reinforcing errors, each of which creates logical or biblical problems on its own. Together, they construct a theological framework that contradicts Scripture at every turn and ultimately self-refutes. This section exposes how each pillar of classical Arminianism collapses under scrutiny, demonstrating that the system is not merely mistaken but internally incoherent.
 
+---
+
 ### A. Prevenient Grace: The Invented Middle Ground
 
 **The Claim:**
+
 Arminianism teaches that after the Fall, humanity is totally depraved and spiritually dead (Eph. 2:1), incapable of responding to God. However, God gives universal "prevenient grace" to every person—a non-regenerating, resistible enabling that restores the ability to choose salvation. This grace is powerful enough to overcome total depravity but polite enough to be rejected. It makes salvation possible but not certain.
 
 **The Biblical Absence:**
+
 The supporting Scripture list for universal prevenient grace = ∅. 
 
 The texts Arminians cite do not teach what they claim:
-- **John 1:9** ("The true light, which gives light to everyone, was coming into the world") — This describes the Logos as the source of illumination and revelation to all creation, not universal enabling grace. The Greek φωτίζει refers to light shining, not grace enabling. No salvation mechanism is in view.
-- **John 12:32** ("And I, when I am lifted up from the earth, will draw all people to myself") — The context is Christ's drawing of *all types* (Jew and Gentile) into the new covenant community, not every individual without exception. Verse 20 shows Greeks (Gentiles) seeking Jesus—the "all" is scope (nations), not exhaustive (every person).
-- **Titus 2:11** ("For the grace of God has appeared, bringing salvation for all people") — This describes the *scope* of salvation (available to all kinds—Jew, Gentile, slave, free), not the mechanism (universal enabling). The grammar supports "all kinds" (πᾶσιν ἀνθρώποις as categorical, not distributive).
+
+- **John 1:9** ("The true light, which gives light to everyone, was coming into the world")  
+  - This describes the Logos as the source of illumination and revelation to all creation, not universal enabling grace
+  - The Greek φωτίζει refers to light shining, not grace enabling
+  - No salvation mechanism is in view
+
+- **John 12:32** ("And I, when I am lifted up from the earth, will draw all people to myself")  
+  - Context: Greeks (Gentiles) seeking Jesus in v.20
+  - The "all" is scope (Jews + Gentiles, all types) not exhaustive (every individual)
+  - Verse shows ethnic expansion of gospel, not universal enabling
+
+- **Titus 2:11** ("For the grace of God has appeared, bringing salvation for all people")  
+  - Describes the scope of salvation (available to all kinds—Jew, Gentile, slave, free)
+  - Grammar supports "all kinds" (πᾶσιν ἀνθρώποις as categorical, not distributive)
+  - Context (vv.2-10) addresses various groups within the church, not every individual
 
 **The Ad Hoc Nature:**
-Prevenient grace was invented to solve a problem the system itself creates. The logic runs as follows:
+
+Prevenient grace was invented to solve a problem the system itself creates. The logic runs:
+
 1. Total depravity → no one can respond to God (Eph. 2:1; Rom. 8:7-8)
 2. God commands everyone to repent (Acts 17:30)
 3. God condemns those who don't repent (John 3:18, 36)
@@ -216,6 +322,7 @@ Prevenient grace was invented to solve a problem the system itself creates. The 
 This is not exegesis. This is system-preservation masquerading as theology.
 
 **Why It Fails:**
+
 Even if prevenient grace existed in Scripture (it doesn't), it would not solve the Entrapment Problem—it would reinforce it.
 
 If God gives grace **knowing it will fail** for many:
@@ -227,8 +334,113 @@ This is still entrapment. The only difference is that now there's a theological 
 
 Grace that is "powerful enough to do nothing" is not grace. It is a label used to avoid admitting that the system produces injustice.
 
+### The Prevenient Grace Contradiction: Semi-Pelagianism Exposed
+
+**The Core Contradiction:**
+
+If prevenient grace is universal, then total depravity is only theoretical—no one ever actually experiences it. This reveals Arminianism as semi-Pelagianism, not historic Protestantism.
+
+**The Setup:**
+- Arminians claim: "We affirm total depravity (dead in sin, unable to respond)"
+- Arminians also claim: "Universal prevenient grace enables all to respond"
+- **Result:** No one is ever actually dead—everyone is enabled
+
+**The Unanswerable Question: WHEN is prevenient grace applied?**
+
+This is the death blow. Arminians must answer: At what point does God give this universal enabling grace?
+
+**Option 1: At birth**
+- Then total depravity never exists as a real condition
+- Every human from birth has the capacity to respond to God
+- This is Pelagianism with evangelical vocabulary
+
+**Option 2: At "age of accountability"**
+- No biblical support for this concept
+- Who determines the age? How is it measured?
+- What about those who die before reaching it?
+- Creates arbitrary categories Scripture never establishes
+- Still means total depravity isn't universal—only children experience it
+
+**Option 3: At gospel hearing**
+- Then it's not universal (many never hear)
+- Makes salvation dependent on geographic/historical accident
+- Contradicts the claim that prevenient grace is given to all
+
+**Option 4: At the Fall—always present for all post-Fall humanity**
+- Then the Fall didn't make us spiritually dead
+- Adam's sin didn't actually produce total inability
+- This directly contradicts Romans 5:12-21 and Ephesians 2:1-3
+
+**Option 5: "It's a mystery" / "We don't need to specify"**
+- Intellectual bankruptcy
+- You can't claim a doctrine is true while refusing to explain how it works
+- "When" is not optional—if prevenient grace is real, it must be applied at some point
+- Refusing to answer proves the concept is incoherent
+
+**What This Reveals:**
+
+The ACTUAL human condition in Arminianism isn't what Scripture describes:
+- Not "dead in sin" (Ephesians 2:1)
+- Not "unable to submit to God" (Romans 8:7)
+- Not "hostile to God" (Romans 8:7)
+- Not "unable to understand spiritual things" (1 Corinthians 2:14)
+- Not "unable to come to Christ" (John 6:44, 65)
+
+The actual condition is: **"Universally enabled to choose if they want."**
+
+**That's semi-Pelagianism**—the exact position condemned by the Second Council of Orange (529 AD).
+
+**Second Council of Orange, Canon 7:**
+> "If anyone affirms that we can form any right opinion or make any right choice which relates to the salvation of eternal life, as is expedient for us, or that we can be saved, that is, assent to the preaching of the gospel through our natural powers without the illumination and inspiration of the Holy Spirit... he is misled by a heretical spirit."
+
+The Council condemned the idea that human nature, even assisted by "helping grace," could initiate or contribute decisively to salvation. It declared that even the **initium fidei** (the beginning of faith) is a gift of God, not a human contribution enabled by grace.
+
+**What Arminianism Claims:**
+- Prevenient grace enables the beginning of faith
+- Humans must activate this grace by choice
+- The decisive factor is human will cooperating with grace
+
+**What Orange Condemned:**
+- The idea that humans can "assent to the preaching of the gospel through our natural powers" even when those powers are enhanced by grace
+- Making the initium fidei (beginning of faith) a human act, even if "enabled"
+
+**The Arminian Dodge:**
+"We're not Pelagian—we say grace enables the choice!"
+
+**The Response:**
+Semi-Pelagianism also said grace enables the choice. That's why it's called "semi" Pelagian. The question is: Does grace merely enable, or does it effectually cause? If grace merely enables and the decisive factor is human will, you're semi-Pelagian.
+
+**The Verdict:**
+
+You don't share the "T" (Total Depravity) with Reformed theology. You share it with Pelagius.
+
+The human condition in Arminianism isn't "dead needing resurrection" but "enabled needing cooperation."
+
+Stop claiming to affirm total depravity. You've redefined it out of existence. What you have is:
+
+- **Theoretical depravity** (no one actually experiences it)
+- **Provisional depravity** (exists only until prevenient grace is applied)
+- **Functional capacity** (everyone can respond if they choose)
+
+That's not the "T" of TULIP. That's the "can do it if you want" of semi-Pelagianism.
+
+**Romans 8:7-8:** "For the mind that is set on the flesh is hostile to God, for it does not submit to God's law; indeed, **it cannot**. Those who are in the flesh **cannot please God**."
+
+**1 Corinthians 2:14:** "The natural person does not accept the things of the Spirit of God, for they are folly to him, and **he is not able to understand them** because they are spiritually discerned."
+
+**John 6:44:** "**No one can come** to me unless the Father who sent me draws him."
+
+**John 6:65:** "This is why I told you that **no one can come** to me unless it is granted him by the Father."
+
+The biblical testimony: **Cannot. Not able. No one can.**
+
+The Arminian revision: "Can, if you want—you've been enabled."
+
 **Conclusion:**
-Prevenient grace is not a biblical doctrine. It is an ad hoc patch on a leaking system, invented to solve a problem that only exists because Arminianism rejected the biblical doctrine of effectual grace. Scripture teaches that the grace which saves is the grace which effectually secures the response (John 6:37, 44-45; Acts 16:14; Phil. 2:13). Prevenient grace is a middle ground that Scripture never occupies.
+
+Prevenient grace is not a biblical doctrine. It is an ad hoc patch on a leaking system, invented to solve a problem that only exists because Arminianism rejected the biblical doctrine of effectual grace. Scripture teaches that the grace which saves is the grace which effectually secures the response (John 6:37, 44-45; Acts 16:14; Phil. 2:13).
+
+Prevenient grace is a middle ground that Scripture never occupies. And by making total depravity merely theoretical, Arminianism reveals itself not as historic Protestantism but as baptized semi-Pelagianism.
 
 ---
 
@@ -322,6 +534,45 @@ But if τετέλεσται means what it says—**completed, accomplished, fini
 2. **Some people's sins are fully paid** → Definite atonement (only elect are saved)
 
 Arminianism tries to split the difference: "Everyone's sins are paid for, but only if they believe." But this is logically incoherent. Payment is either made or it isn't. A debt cannot be simultaneously "fully paid" and "awaiting activation."
+
+### The Arminian Redefinition
+
+For the Arminian model of universal atonement to hold, τετέλεσται **cannot mean** "paid in full."
+
+- If Christ's death was a full payment for the sins of every individual, and yet many of those individuals will still be punished for their sins in hell, then God exacts payment twice.
+- Therefore, the Arminian system is **forced to reinterpret** Christ's cry. "It is finished" can no longer mean that salvation was *accomplished*. It must be demoted to mean that the *provision* for salvation was made.
+
+In the Arminian view, τετέλεσται means:
+- "The way is now open."
+- "Salvation has been made possible for all."  
+- "The ransom has been provided, but it awaits activation by human free will."
+
+**This transforms the cross from a victorious altar where sin was decisively cancelled into a mere repository of potential grace.** It turns the triumphant cry of a conquering King into a press release announcing a new spiritual commodity that is now available, pending the consumer's choice.
+
+**The Redemption Coupon:**
+
+Arminian atonement is like a coupon:
+- Available to all (universal provision)
+- Effective only when redeemed (conditional application)  
+- The value exists but must be "activated" by human action
+
+But Scripture presents atonement as **accomplished fact, not contingent possibility:**
+
+- **Hebrews 1:3:** "After making purification for sins, he sat down" (καθαρισμὸν τῶν ἁμαρτιῶν ποιησάμενος)
+  - Aorist participle: completed action
+  - He **sat down** because the work was **finished**
+  
+- **Hebrews 9:12:** "He entered once for all into the holy places, not by means of the blood of goats and calves but by means of his own blood, thus **securing** eternal redemption."
+  - εὑράμενος: "having obtained/secured" (aorist middle participle)
+  - Redemption is **secured**, not made available
+
+- **Colossians 2:13-14:** "And you, who were dead in your trespasses... God made alive together with him, having forgiven us all our trespasses, by **canceling** the record of debt that stood against us with its legal demands. This he set aside, **nailing it to the cross**."
+  - ἐξαλείψας: "having wiped out/cancelled" (aorist participle—completed action)
+  - The debt is **cancelled at the cross**, not held in escrow pending activation
+
+**Christ's work accomplished what it intended.** If it intended to save all without exception, all would be saved (universalism). If it intended to secure salvation for the elect, then the elect are secured. Arminian atonement is neither—it's a half-measure that accomplishes nothing until activated by the creature.
+
+**That's not the gospel. That's a redemption coupon awaiting human validation.**
 
 **The Double Jeopardy Problem:**
 If Christ's death paid for the sins of every individual, and yet some of those individuals still go to hell, then God exacts payment twice:
@@ -515,42 +766,105 @@ This requires a Spirit whose:
 
 **This is a different Spirit**—not the one whose "gifts and calling are irrevocable" (Rom. 11:29) and who "bears witness with our spirit that we are children of God" (Rom. 8:16), but a Spirit whose work is conditional, temporary, and ultimately impotent if the believer chooses to resist.
 
+### The Unbreakable Chain That Arminianism Breaks
+
+**Romans 8:29-30:** "For those whom he foreknew he also predestined... called... justified... **glorified**."
+
+**The Golden Chain:** Foreknew → Predestined → Called → Justified → Glorified
+
+**All past tense—even glorification.** Everyone foreknown IS glorified. No one drops out.
+
+**Grammatical Analysis:**
+- προέγνω (proegnō): aorist active—foreknew
+- προώρισεν (proōrisen): aorist active—predestined  
+- ἐκάλεσεν (ekalesen): aorist active—called
+- ἐδικαίωσεν (edikaiōsen): aorist active—justified
+- ἐδόξασεν (edoxasen): aorist active—**glorified**
+
+**Key observations:**
+1. **Same group throughout** (οὓς... τούτους... τούτους)—"those whom... these... these"
+2. **No leakage**—100% of those foreknown are glorified
+3. **Glorification in past tense**—so certain it's spoken of as already accomplished (proleptic aorist)
+4. **Unbreakable sequence**—each link is causally connected to the next
+
+**Arminian Problem:** They must insert breakable links—"justified (if you persevere) → glorified (might not happen)."
+
+But Paul's grammar **excludes** this. The chain is unbreakable. All justified **are** glorified.
+
+**The Devastating Question:** "Can someone be justified but not glorified?"
+- **Arminian answer:** "Yes, if they apostatize"
+- **Paul's answer:** "Those whom he justified he also glorified" (no exceptions, no conditions)
+
+**If even one justified person fails to be glorified, Romans 8:29-30 is false.**
+
+**Romans 8:38-39:** "Nothing in all creation will be able to separate us from the love of God."
+
+**Arminian caveat:** "...except yourself."
+
+**But you are part of creation. Paul's promise is comprehensive.**
+
+### The Shepherd Who Can't Keep His Sheep
+
+**John 10:28-29:** "I give them eternal life, and **they will never perish**, and **no one** will snatch them out of my hand."
+
+**Arminian interpretation:** "They won't perish unless they choose to leave."
+
+**But Jesus said they will NEVER perish—no conditions, no qualifications.**
+
+- οὐ μὴ ἀπόλωνται: **double negative** (emphatic: "they will never, ever perish")
+- εἰς τὸν αἰῶνα: "unto the age" (eternal duration)
+- οὐχ ἁρπάσει: "no one will snatch" (universal negative—includes the believer himself)
+
+Sheep are stupid, prone to wander, helpless—that's why they need a shepherd. The shepherd's job is to **keep** the sheep, not merely offer them the opportunity to stay.
+
+Arminian sheep are autonomous agents who keep themselves. That's not a sheep needing a shepherd—that's self-sufficiency.
+
+### The Pastoral Devastation
+
+**Perpetual Uncertainty:** You can know you're saved **today**, but not tomorrow. If you apostatize in 15 years, it proves you weren't actually saved today—you just thought you were.
+
+**Performance-Based Assurance:** Your assurance rises and falls with your performance. Functional Roman Catholicism—assurance based on works, not Christ's finished work.
+
+**The Irony:** Even Arminians can't be certain their faith is the kind that will last. They live with the same uncertainty they accuse Calvinists of creating.
+
+**Reformed Assurance:**
+
+Assurance isn't based on your grip on God—it's based on **God's grip on you**.
+
+- Christ's finished work: "It is finished"
+- God's promise: "He who began a good work will complete it" (Phil 1:6)
+- The Spirit's seal: "The guarantee of our inheritance" (Eph 1:13-14)
+
+**The Spirit doesn't seal you until you unseal yourself. When God seals, it stays sealed. When the Shepherd keeps His sheep, they never perish—not because they're strong enough to stay, but because He's strong enough to keep them.**
+
 **Conclusion:**
 Conditional security destroys assurance, contradicts Scripture's promises, and reduces salvation to a maintenance contract. It is Roman Catholicism in evangelical dress—and it requires a Spirit whose sealing can be broken, whose regeneration can be undone, and whose power is defeated by human choice.
 
 ---
 
-### F. The Systematic Verdict: Every Pillar Fails
+### The Pattern: Every Pillar Fails
 
 Each pillar of classical Arminianism does not merely "interpret Scripture differently"—each **contradicts clear biblical texts** and **distorts a Person of the Trinity.**
 
-**The Pattern:**
-
 | Pillar | Biblical Problem | Trinitarian Distortion |
 |--------|------------------|------------------------|
-| Prevenient Grace | No scriptural warrant (invented category) | N/A (theological fiction) |
-| Conditional Election | Rom. 9:11, 16; Eph. 1:4; Acts 13:48 | Father: Reactive, not sovereign |
-| Unlimited Atonement | John 19:30 (τετέλεσται contradicted) | Son: Hypothetical savior, potential work |
-| Resistible Grace | John 6:37, 44, 65; Acts 16:14; Phil. 2:13 | Spirit: Defeatable power, uncertain work |
-| Conditional Security | Rom. 8:29-30; Phil. 1:6; John 10:28-29 | Spirit: Breakable seal, reversible regeneration |
+| Prevenient Grace | No scriptural warrant (invented category) | N/A (theological fiction to patch system) |
+| Conditional Election | Rom. 9:11, 16; Eph. 1:4; Acts 13:48 | **Father:** Reactive, not sovereign—will contingent on creatures |
+| Unlimited Atonement | John 19:30 (τετέλεσται contradicted) | **Son:** Hypothetical savior—work potential, not actual |
+| Resistible Grace | John 6:37, 44, 65; Acts 16:14; Phil. 2:13 | **Spirit:** Defeatable power—regularly unsuccessful |
+| Conditional Security | Rom. 8:29-30; Phil. 1:6; John 10:28-29 | **Spirit:** Breakable seal—regeneration reversible |
 
-**The Result:**
-A reconstructed Trinity:
-- **Father:** Resistible will, contingent on creatures, reactive not sovereign
-- **Son:** Hypothetical savior, potential atonement, work incomplete until human activation
-- **Spirit:** Defeatable power, temporary sealing, frequently unsuccessful
-
-**This is not the biblical Trinity.**
+### The Result: A Reconstructed Trinity
 
 The God of Arminianism is:
-- A Father who needs creation to tell Him what to choose
-- A Son who dies to make salvation possible but not actual
-- A Spirit who tries hard but often fails
+- A **Father** who needs creation to tell Him what to choose
+- A **Son** who dies to make salvation possible but not actual  
+- A **Spirit** who tries hard but often fails
 
 The God of Scripture is:
-- A Father whose will is accomplished, not frustrated (Isa. 46:10; Dan. 4:35)
-- A Son who saves His people from their sins (Matt. 1:21), not merely makes salvation available
-- A Spirit who gives life (2 Cor. 3:6), not merely offers potential
+- A **Father** whose will is accomplished, not frustrated (Isa. 46:10; Dan. 4:35)
+- A **Son** who saves His people from their sins (Matt. 1:21), not merely makes salvation available
+- A **Spirit** who gives life (2 Cor. 3:6), not merely offers potential
 
 **These are two different gods.**
 
@@ -558,7 +872,7 @@ And the final proof that Arminians know their system fails? Watch them pray.
 
 ---
 
-## The Prayer Test - Why Pray For Salvation?
+## The Prayer Test: The System Self-Refutes
 
 Theology is not merely an academic exercise—it is meant to be lived. What Christians actually pray reveals what they truly believe about God. If a theological system produces prayers that contradict its own premises, the system is incoherent. This is precisely the problem with Arminianism. When Arminians pray for the salvation of others, they instinctively pray as if Reformed theology is true—and that is the smoking gun.
 
@@ -567,13 +881,13 @@ Theology is not merely an academic exercise—it is meant to be lived. What Chri
 If Arminian theology is true, prayer for someone's salvation becomes logically and theologically incoherent. Consider what the system actually permits you to ask God to do.
 
 **If Grace is Resistible:**
-- You cannot pray for God to **override the will** of the unbeliever. Arminian theology insists that libertarian freedom is sacrosanct. God will not, and indeed *cannot* (given His self-imposed limitation), violate this freedom. To pray for God to "change their heart" against their resistance would be to pray for something the system denies He will do.
-- You cannot pray for God to **effectually secure** their salvation. Grace, in the Arminian scheme, is resistible. It enables but does not cause. Therefore, praying for God to "save them" in any effectual sense is to pray for what the theology says cannot happen.
+- You cannot pray for God to **override the will** of the unbeliever. Arminian theology insists that libertarian freedom is sacrosanct. God will not, and indeed *cannot* (given His self-imposed limitation), violate this freedom.
+- You cannot pray for God to **effectually secure** their salvation. Grace, in the Arminian scheme, is resistible. It enables but does not cause.
 - What's left? You can pray that the unbeliever... **chooses correctly**. But this is not praying *to God*—this is hoping *about the person*. It is wishful thinking directed at human choice, not petition directed at divine power.
 
 **If Election is Conditional:**
-- You cannot pray for God to **elect them**. God has already elected based on foreseen faith. The election is settled—based on what God sees they will do, not on what you ask Him to do. Your prayer cannot change an election based on foreknowledge of libertarian choice.
-- You cannot pray for God to **cause their faith**. That would make election unconditional (based on God's causative will, not foreseen human action). To pray for God to grant them faith is to pray against the Arminian system.
+- You cannot pray for God to **elect them**. God has already elected based on foreseen faith. The election is settled—based on what God sees they will do, not on what you ask Him to do.
+- You cannot pray for God to **cause their faith**. That would make election unconditional (based on God's causative will, not foreseen human action).
 - What's left? You can pray that they... **believe**. But again, this is not asking God to *do* anything. It's hoping the person makes the right decision. That's not prayer—that's optimism.
 
 **If Atonement is Potential:**
@@ -582,11 +896,10 @@ If Arminian theology is true, prayer for someone's salvation becomes logically a
 - What's left? You can pray that they... **cash in the redemption coupon**. But that's not asking God to save them—it's asking them to save themselves by exercising the choice God enabled but will not effectuate.
 
 **The Logical Result:**
+
 If Arminian theology is true, prayer for salvation ceases to be **petition to a sovereign God** who can and will accomplish what He promises. It becomes **wishful thinking about human choices**—cosmic cheerleading for a decision that is entirely up to the sinner, not up to God.
 
 But this is not what Arminians actually pray. And that reveals the incoherence.
-
----
 
 ### B. The Practice Betrays the Theology
 
@@ -629,6 +942,7 @@ Every one of these prayers is asking God to do what Arminian theology says He **
    - To pray for God to grant repentance is to pray for monergistic grace.
 
 **What This Reveals:**
+
 Every prayer assumes:
 - Grace must be **effectual** (or the prayer is pointless)
 - God can and will **change the will** (or the prayer is meaningless)
@@ -637,6 +951,7 @@ Every prayer assumes:
 Arminians pray like Calvinists because, when it matters most, they know grace must be effectual.
 
 **The Test:**
+
 Ask an Arminian to pray for someone's salvation **without asking God to do anything their theology denies He will do.**
 
 They can't.
@@ -649,9 +964,8 @@ Because to pray consistently with Arminian theology, they would have to pray:
 But no Arminian prays like this. Why? Because they know such prayers are not prayers at all—they are expressions of hope directed at human choice, not petitions directed at divine power.
 
 **Conclusion:**
-The practice of Arminian prayer betrays the theology. When Arminians pray, they reveal what they actually believe: that God must work effectually, not merely resistibly, or salvation will not occur. Their prayers are a confession of Reformed theology.
 
----
+The practice of Arminian prayer betrays the theology. When Arminians pray, they reveal what they actually believe: that God must work effectually, not merely resistibly, or salvation will not occur. Their prayers are a confession of Reformed theology.
 
 ### C. Biblical Prayer Assumes Divine Sovereignty Over Salvation
 
@@ -684,9 +998,10 @@ Scripture does not present prayer for salvation as wishful thinking about human 
 
 - Prayer for conversion asks God to do what only He can do: **create a new heart**
 - This is not enabling—this is causing ("I will cause you to walk")
-- The new heart is not offered; it is **given** (נָתַתִּי—qal perfect, completed divine action)
+- The new heart is not offered; it is **given** (completed divine action)
 
 **Biblical Pattern:**
+
 Prayer for salvation consistently:
 - Asks God to do what humans cannot do (grant repentance, open hearts, create new life)
 - Assumes God's work is **causative**, not merely enabling
@@ -694,11 +1009,10 @@ Prayer for salvation consistently:
 
 This is the pattern of Scripture. This is also the pattern of Arminian prayers. The theology denies what the prayers assume.
 
----
-
 ### D. The Incoherence Exposed
 
 **Arminian Theology Says:**
+
 | Doctrine | Claim |
 |----------|-------|
 | Conditional Election | God's choice depends on foreseen human faith |
@@ -708,6 +1022,7 @@ This is the pattern of Scripture. This is also the pattern of Arminian prayers. 
 | Libertarian Freedom | Human will is ultimate; God will not override it |
 
 **Arminian Practice (Prayer) Reveals:**
+
 | What They Pray | What This Assumes |
 |----------------|-------------------|
 | "God, save them" | God can effectually secure salvation (monergism) |
@@ -723,13 +1038,12 @@ Either:
 - **Arminian prayers are true** → their theology is false (they're closet monergists)
 
 **The Verdict:**
+
 Arminians instinctively know that grace must be effectual, or no one will be saved. They know God must change the will, or the will remains enslaved to sin (Rom. 8:7-8). They know salvation depends on God's sovereign work, not human activation. They know all this—**because they pray accordingly.**
 
 But they won't submit their theology to what their prayers confess.
 
 **This is not mere inconsistency. This is the system self-refuting.**
-
----
 
 ### E. Why This Matters for the "Another Gospel" Verdict
 
@@ -756,7 +1070,108 @@ This does not mean every Arminian is damned. Many Arminians trust Christ despite
 But the system itself is false. And those who systematically teach it—knowing the contradictions, hardening against correction—are leading people to trust in a different god. A god whose grace can be resisted, whose will can be thwarted, whose power is subordinate to human choice. **That is not YHWH.**
 
 **Conclusion:**
+
 The prayer test exposes the Arminian system as not merely wrong but incoherent. Even Arminians know grace must be effectual—**they just won't admit it theologically.** And that reveals that the system is not a legitimate interpretation of Scripture but a philosophical construct imposed upon it, contradicted by Scripture and refuted by practice.
+
+---
+
+## Glory Theft: The Decisive Factor Problem
+
+**Isaiah 43:11:** "I, I am the LORD, and besides me there is no savior."
+
+**Isaiah 42:8:** "My glory I give to no other."
+
+### The Core Problem
+
+If two people hear the gospel with equal prevenient grace, and one believes while the other doesn't—**what made the difference?**
+
+**Arminian Answer:** "Human will. One cooperated with grace; the other resisted."
+
+**This Creates Two Violations:**
+
+### Violation 1: Co-Savior Status (Isaiah 43:11)
+
+- God provides possibility
+- Humans provide actuality  
+- The human will is the decisive factor
+
+But God says: "**Besides me there is NO savior.**"
+
+If the decisive factor in salvation is your choice (not God's effectual grace), then you are functionally a co-savior. You provided what God could not: the actualization of redemption. God made it possible; you made it actual. That's sharing the saving work.
+
+**But Isaiah 43:11 categorically excludes co-saviors.**
+
+### Violation 2: Glory Theft (Isaiah 42:8)
+
+If you believed while your neighbor (with equal grace) didn't, **you did something he didn't do.**
+
+**Question:** "Why are you saved and your neighbor isn't?"
+
+**Arminian answer:** "God gave us both grace, but I chose to believe and he didn't."
+
+**Translation:** "I made the right choice; he made the wrong one."
+
+**That's boasting. That's glory theft.**
+
+- **Ephesians 2:8-9:** "For by grace you have been saved through faith. And this is not your own doing; it is the gift of God, not a result of works, so that no one may boast."
+  - If faith **originates** in you (even if "enabled" by grace), it is still "your own doing"
+  - Paul says faith itself is "the gift of God" (not referring only to grace or salvation, but the entire mechanism including faith)
+  - Purpose clause: "**so that no one may boast**"—boasting is excluded only if the entirety of salvation (including faith) is gift
+
+- **1 Corinthians 4:7:** "For who sees anything different in you? What do you have that you did not receive? If then you received it, why do you boast as if you did not receive it?"
+  - If you "made the decisive choice" while another didn't, you have something you didn't receive—the decisive act
+  - Paul's logic: **everything** salvific is received, not self-generated
+
+But God says: "**My glory I give to no other.**"
+
+### The Only Escape: Monergism
+
+"Why are you saved and your neighbor isn't?"
+
+**Biblical answer:** "Because God chose to save me (Eph 1:4-5), gave me faith (Eph 2:8), regenerated me (John 3:3-8), and drew me effectually (John 6:44). I contributed nothing. All glory to God alone."
+
+- **Romans 11:36:** "For from him and through him and to him are all things. To him be glory forever. Amen."
+  - All salvific causation is "from him"
+  - All salvific process is "through him"  
+  - All salvific purpose terminates "to him"
+  - Synergism breaks this at every point
+
+- **1 Corinthians 1:29-31:** "...so that no human being might boast in the presence of God. And because of him you are in Christ Jesus, who became to us wisdom from God, righteousness and sanctification and redemption, so that, as it is written, 'Let the one who boasts, boast in the Lord.'"
+  - Union with Christ is "**because of him**" (ἐξ αὐτοῦ)—sourced in God, not human choice
+  - All components of salvation are "from God"
+  - Result: boasting is directed **to the Lord**, not shared with the creature
+
+**If you contributed the decisive factor—even if that factor is "merely" the choice to believe—you share the glory. And God will not share His glory.**
+
+### The Arminian Dilemma
+
+Arminians face an impossible choice:
+
+**Option 1: Deny the decisive factor is human choice**
+- But then grace is effectual (Calvinism)
+- The system collapses
+
+**Option 2: Affirm human choice is decisive**
+- Violates Isaiah 43:11 (co-savior)
+- Violates Isaiah 42:8 (glory theft)
+- Violates Eph 2:9, 1 Cor 1:29-31, Rom 11:36 (boasting not excluded)
+
+**There is no third option.**
+
+Either:
+- God alone is Savior and gets all the glory (monergism)
+- Or humans share in the saving work and deserve some glory (synergism)
+
+**Scripture permits only the first. Arminianism requires the second.**
+
+### Conclusion
+
+The decisive factor question is not a peripheral issue. It strikes at the heart of:
+- **God's exclusive role as Savior** (Isa 43:11)
+- **God's refusal to share glory** (Isa 42:8)  
+- **The purpose of salvation** (that no one may boast—Eph 2:9)
+
+Arminianism fails on all three counts. It makes man a co-savior, allows glory theft, and creates grounds for boasting. Only monergism preserves what Scripture demands: **salvation belongs to the LORD** (Jonah 2:9), and to Him alone belongs all glory.
 
 ---
 
